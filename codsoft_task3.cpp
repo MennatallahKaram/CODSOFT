@@ -1,6 +1,6 @@
 /**
  ******************************************************************************
- * @file           : Task_3.cpp
+ * @file           : codsoft_task3.cpp
  * @author         : Mennatallah Karam
  * @brief          : Tic-Tac-Toe game that
                      allows two players to play against each other
