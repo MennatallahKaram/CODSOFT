@@ -1,6 +1,6 @@
 /**
  ******************************************************************************
- * @file           : Task_1
+ * @file           : codsoft_task1.cpp
  * @author         : Mennatallah Karam 
  * @brief          : A program that generates a random number and asks the
                      user to guess it. Provide feedback on whether the guess is too
